@@ -1,0 +1,2 @@
+[console_scripts]
+antonia = antonia:main

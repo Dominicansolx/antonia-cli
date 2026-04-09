@@ -1,0 +1,11 @@
+README.md
+setup.py
+antonia/__init__.py
+antonia/antonia.py
+antonia/show_greeting.py
+antonia_cli.egg-info/PKG-INFO
+antonia_cli.egg-info/SOURCES.txt
+antonia_cli.egg-info/dependency_links.txt
+antonia_cli.egg-info/entry_points.txt
+antonia_cli.egg-info/requires.txt
+antonia_cli.egg-info/top_level.txt

@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: antonia-cli
+Version: 0.1.0
+Summary: Antonia CLI - Agente de código IA en memoria de Doña Antonia Rodríguez
+Author: Emanuel Diaz
+Requires-Python: >=3.8
+Requires-Dist: aider-chat
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
